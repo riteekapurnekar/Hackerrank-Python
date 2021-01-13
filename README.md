@@ -1,2 +1,2 @@
 # Hackerrank-Python
-All Python Programming Codes from the very basics. 
+Solutions to all Python Programming Codes starting with the basics. 
